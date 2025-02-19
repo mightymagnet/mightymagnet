@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mightymagnet</h1>
 <h3 align="center">Aspiring AI Developer, Data Enthusiast, and Full Stack Engineer</h3>
-
+https://myoctocat.dev/@sw-yx/octocat
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightymagnet&label=Profile%20views&color=0e75b6&style=flat" alt="mightymagnet" /> </p>
 
 - 🔭 I’m currently working on **AI Research and Development**
