@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, AI, and JavaScript**
 
-- 📫 How to reach me **lealemb.dev@gmail.com**
+- 📫 How to reach me **mightymagnet.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
