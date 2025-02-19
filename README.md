@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm mightymagnet</h1>
-<h3 align="center">Aspiring AI Developer, Data Enthusiast, and Full Stack Engineer</h3>
+<h3 align="center">Aspiring AI Developer, Data Enthusiast, and Full Stack Engineer</h3> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img align='center' 
-
+<img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightymagnet&label=Profile%20views&color=0e75b6&style=flat" alt="mightymagnet" /> </p>
 
 - 🔭 I’m currently working on **AI Research and Development**
