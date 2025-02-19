@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mightymagnet</h1>
-<h3 align="center">Aspiring AI Developer, Data Enthusiast, and Full Stack Engineer</h3> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h1 align="center">Hi 👋, I'm mightymagnet</h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h3 align="center">Aspiring AI Developer, Data Enthusiast, and Full Stack Engineer</h3> 
 
 <img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>
